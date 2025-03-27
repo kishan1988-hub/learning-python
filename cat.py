@@ -1,5 +1,5 @@
-i = int(input("how many times to repeat cat"))
+i = 1
 
-while i !=0:
+while i  <=3:
     print("Meow")
-    i = i-1
+    i+=1
